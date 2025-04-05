@@ -1,0 +1,61 @@
+"id","user_id","artist_id","name","genres","popularity","image_url","spotify_url"
+1,1,"1QAJqy2dA3ihHBFIHRphZj",Cigarettes After Sex,dream pop,86,https://i.scdn.co/image/ab6761610000e5eb0e871e0389b9722cc12a4118,https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj
+2,1,"1Xyo4u8uXC1ZmMpatF05PJ",The Weeknd,"",97,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae,https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+3,1,"246dkjvS1zLTtiykXe5h60",Post Malone,"",89,https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0,https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60
+4,1,"4oLeXFyACqeem2VImYeBFe",Fred again..,"stutter house, house",77,https://i.scdn.co/image/ab6761610000e5eb04a3b69e7f2bf27020773d8c,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe
+5,1,"2h93pZq0e7k5yf4dywlkpM",Frank Ocean,"",88,https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab,https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+6,1,"0k17h0D3J5VfsdmQ1iZtE9",Pink Floyd,"progressive rock, psychedelic rock, classic rock, symphonic rock, art rock, rock",81,https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa,https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+7,1,"699OTQXzgjhIYAHMy9RyPD",Playboi Carti,rage rap,95,https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a,https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD
+8,1,"0epOFNiUfyON9EYx7Tpr6V",The Strokes,"garage rock, indie rock, alternative rock",77,https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089,https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+9,1,"4Z8W4fKeB5YxbusRsdQVPb",Radiohead,"art rock, alternative rock",85,https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd,https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+10,1,"66CXWjxzNUsdJxJ2JdwvnR",Ariana Grande,pop,94,https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR
+11,1,"4tZwfgrHOc3mvqYlEYSvVi",Daft Punk,"french house, electronic, electro",82,https://i.scdn.co/image/ab6761610000e5ebdc93bb227980211b325b9d70,https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+12,1,"3mIj9lX2MWuHmhNCA7LSCW",The 1975,"",78,https://i.scdn.co/image/ab6761610000e5eb0c6e752cbb1e6d1416970f5a,https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW
+13,1,"2YZyLoL8N0Wb9xBt1NhZWg",Kendrick Lamar,"hip hop, west coast hip hop",97,https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918,https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg
+14,1,"5GGJosGMs08YEmKTZJe1fL",Suki Waterhouse,"",71,https://i.scdn.co/image/ab6761610000e5ebc2bb10016e2e142f397f780c,https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL
+15,1,"5he5w2lnU9x7JFhnwcekXX",Skrillex,"dubstep, edm, electro, electronic",79,https://i.scdn.co/image/ab6761610000e5ebe32002317387b6d659308a94,https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX
+16,1,"5INjqkS1o8h1imAzPqGZBb",Tame Impala,"indie, psychedelic pop",82,https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2,https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+17,1,"6M2wZ9GZgrQXHCFfjv46we",Dua Lipa,pop,89,https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d,https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we
+18,1,"4V8LLVI7PbaPR0K2TGSxFF","Tyler, The Creator","",91,https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52,https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+19,1,"1RyvyyTE3xzB2ZywiAwp0i",Future,rap,93,https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb,https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i
+20,1,"3TVXtAsR1Inumwj472S9r4",Drake,"rap, hip hop",98,https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9,https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+21,1,"1QAJqy2dA3ihHBFIHRphZj",Cigarettes After Sex,dream pop,86,https://i.scdn.co/image/ab6761610000e5eb0e871e0389b9722cc12a4118,https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj
+22,1,"1Xyo4u8uXC1ZmMpatF05PJ",The Weeknd,"",97,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae,https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+23,1,"246dkjvS1zLTtiykXe5h60",Post Malone,"",89,https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0,https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60
+24,1,"4oLeXFyACqeem2VImYeBFe",Fred again..,"stutter house, house",77,https://i.scdn.co/image/ab6761610000e5eb04a3b69e7f2bf27020773d8c,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe
+25,1,"2h93pZq0e7k5yf4dywlkpM",Frank Ocean,"",88,https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab,https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+26,1,"0k17h0D3J5VfsdmQ1iZtE9",Pink Floyd,"progressive rock, psychedelic rock, classic rock, symphonic rock, art rock, rock",81,https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa,https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+27,1,"699OTQXzgjhIYAHMy9RyPD",Playboi Carti,rage rap,95,https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a,https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD
+28,1,"0epOFNiUfyON9EYx7Tpr6V",The Strokes,"garage rock, indie rock, alternative rock",77,https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089,https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+29,1,"4Z8W4fKeB5YxbusRsdQVPb",Radiohead,"art rock, alternative rock",85,https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd,https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+30,1,"66CXWjxzNUsdJxJ2JdwvnR",Ariana Grande,pop,94,https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR
+31,1,"4tZwfgrHOc3mvqYlEYSvVi",Daft Punk,"french house, electronic, electro",82,https://i.scdn.co/image/ab6761610000e5ebdc93bb227980211b325b9d70,https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+32,1,"3mIj9lX2MWuHmhNCA7LSCW",The 1975,"",78,https://i.scdn.co/image/ab6761610000e5eb0c6e752cbb1e6d1416970f5a,https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW
+33,1,"2YZyLoL8N0Wb9xBt1NhZWg",Kendrick Lamar,"hip hop, west coast hip hop",97,https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918,https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg
+34,1,"5GGJosGMs08YEmKTZJe1fL",Suki Waterhouse,"",71,https://i.scdn.co/image/ab6761610000e5ebc2bb10016e2e142f397f780c,https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL
+35,1,"5he5w2lnU9x7JFhnwcekXX",Skrillex,"dubstep, edm, electro, electronic",79,https://i.scdn.co/image/ab6761610000e5eb61f92702ca14484aa263a931,https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX
+36,1,"5INjqkS1o8h1imAzPqGZBb",Tame Impala,"indie, psychedelic pop",82,https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2,https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+37,1,"6M2wZ9GZgrQXHCFfjv46we",Dua Lipa,pop,89,https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d,https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we
+38,1,"4V8LLVI7PbaPR0K2TGSxFF","Tyler, The Creator","",91,https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52,https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+39,1,"1RyvyyTE3xzB2ZywiAwp0i",Future,rap,93,https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb,https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i
+40,1,"3TVXtAsR1Inumwj472S9r4",Drake,"rap, hip hop",98,https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9,https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
+41,1,"1QAJqy2dA3ihHBFIHRphZj",Cigarettes After Sex,dream pop,86,https://i.scdn.co/image/ab6761610000e5eb0e871e0389b9722cc12a4118,https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj
+42,1,"1Xyo4u8uXC1ZmMpatF05PJ",The Weeknd,"",97,https://i.scdn.co/image/ab6761610000e5eb9e528993a2820267b97f6aae,https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ
+43,1,"246dkjvS1zLTtiykXe5h60",Post Malone,"",89,https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0,https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60
+44,1,"4oLeXFyACqeem2VImYeBFe",Fred again..,"stutter house, house",77,https://i.scdn.co/image/ab6761610000e5eb04a3b69e7f2bf27020773d8c,https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe
+45,1,"2h93pZq0e7k5yf4dywlkpM",Frank Ocean,"",88,https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab,https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+46,1,"0k17h0D3J5VfsdmQ1iZtE9",Pink Floyd,"progressive rock, psychedelic rock, classic rock, symphonic rock, art rock, rock",81,https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa,https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+47,1,"699OTQXzgjhIYAHMy9RyPD",Playboi Carti,rage rap,95,https://i.scdn.co/image/ab6761610000e5ebba50ca67ffc3097f6ea1710a,https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD
+48,1,"0epOFNiUfyON9EYx7Tpr6V",The Strokes,"garage rock, indie rock, alternative rock",77,https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089,https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V
+49,1,"4Z8W4fKeB5YxbusRsdQVPb",Radiohead,"art rock, alternative rock",85,https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd,https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+50,1,"66CXWjxzNUsdJxJ2JdwvnR",Ariana Grande,pop,94,https://i.scdn.co/image/ab6761610000e5eb6725802588d7dc1aba076ca5,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR
+51,1,"4tZwfgrHOc3mvqYlEYSvVi",Daft Punk,"french house, electronic, electro",82,https://i.scdn.co/image/ab6761610000e5eba7bfd7835b5c1eee0c95fa6e,https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+52,1,"3mIj9lX2MWuHmhNCA7LSCW",The 1975,"",78,https://i.scdn.co/image/ab6761610000e5eb0c6e752cbb1e6d1416970f5a,https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW
+53,1,"2YZyLoL8N0Wb9xBt1NhZWg",Kendrick Lamar,"hip hop, west coast hip hop",97,https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918,https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg
+54,1,"5GGJosGMs08YEmKTZJe1fL",Suki Waterhouse,"",71,https://i.scdn.co/image/ab6761610000e5ebc2bb10016e2e142f397f780c,https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL
+55,1,"5he5w2lnU9x7JFhnwcekXX",Skrillex,"dubstep, edm, electro, electronic",79,https://i.scdn.co/image/ab6761610000e5ebe32002317387b6d659308a94,https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX
+56,1,"5INjqkS1o8h1imAzPqGZBb",Tame Impala,"indie, psychedelic pop",82,https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2,https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+57,1,"6M2wZ9GZgrQXHCFfjv46we",Dua Lipa,pop,89,https://i.scdn.co/image/ab6761610000e5eb0c68f6c95232e716f0abee8d,https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we
+58,1,"4V8LLVI7PbaPR0K2TGSxFF","Tyler, The Creator","",91,https://i.scdn.co/image/ab6761610000e5ebdfa2b0c7544a772042a12e52,https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF
+59,1,"1RyvyyTE3xzB2ZywiAwp0i",Future,rap,93,https://i.scdn.co/image/ab6761610000e5eb7565b356bc9d9394eefa2ccb,https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i
+60,1,"3TVXtAsR1Inumwj472S9r4",Drake,"rap, hip hop",98,https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9,https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4
