@@ -125,6 +125,3 @@ You can open `frontend/index.html` directly in the browser (if testing locally),
 Student @ Manipal Institute of Technology
 Backend-focused full-stack developer | Spotify API Enthusiast
 
----
-
-Let me know if you'd like this version tailored further or want badges, license info, or deployment instructions added.
