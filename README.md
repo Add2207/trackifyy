@@ -9,7 +9,7 @@
 ### Main Dashboard
 The application features a clean, intuitive dashboard that organizes your music data into accessible sections:
 
-![Main Dashboard](![image](https://github.com/user-attachments/assets/1fcc04b0-e248-4d0e-97fb-bd17138ac8a4)
+![Main Dashboard](images/dashboard.png)
 )
 
 *Main interface showing all available music insights sections*
@@ -17,25 +17,25 @@ The application features a clean, intuitive dashboard that organizes your music 
 ### 🎧 Your Music Analytics
 
 **Top Tracks**
-![Top Tracks](![image](https://github.com/user-attachments/assets/0343b066-7b21-4ac8-86cb-954dfb7a8059)
+![Top Tracks](images/top-tracks.png)
 )
 
 *Discover your most played tracks with album artwork and artist information*
 
 **Recently Played**
-![Recently Played](![image](https://github.com/user-attachments/assets/d2015db8-26dc-4c92-ab48-2c949669b4be)
+![Recently Played](images/recently-played.png)
 )
 
 *Track your recent listening history with timestamps*
 
 **Top Artists**
-![Top Artists](![image](https://github.com/user-attachments/assets/e0d35315-6a78-45e1-8826-da52912134f9)
+![Top Artists](images/top-artists.png)
 )
 
 *View your favorite artists with profile pictures and listening statistics*
 
 **Personalized Recommendations**
-![Recommendations](![image](https://github.com/user-attachments/assets/3ae81f7d-decc-4572-ad94-31bfa24ab096)
+![Recommendations](images/presonalized-playlist.png)
 )
 
 *Get curated playlist recommendations based on your listening habits*
