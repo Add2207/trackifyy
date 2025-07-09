@@ -35,7 +35,7 @@ The application features a clean, intuitive dashboard that organizes your music 
 *View your favorite artists with profile pictures and listening statistics*
 
 **Personalized Recommendations**
-![Recommendations](images/presonalized-playlist.png)
+![Recommendations](images/personalized-playlist.png)
 )
 
 *Get curated playlist recommendations based on your listening habits*
