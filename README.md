@@ -79,7 +79,8 @@ The application features a clean, intuitive dashboard that organizes your music 
 The application uses PostgreSQL to store user data and track listening history:
 
 ### Database Structure
-![Database Schema](path/to/database-schema.png)
+![Database Schema](images/db.png)
+![Database Schema](images/db2.png)
 
 *Complete database schema showing table relationships*
 
