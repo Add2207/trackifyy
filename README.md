@@ -106,7 +106,7 @@ You can open `frontend/index.html` directly in the browser (if testing locally),
 
 * 🔑 [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/)
 * 📄 [Spotify Web API Docs](https://developer.spotify.com/documentation/web-api/)
-* 💻 (Optional) [Live Demo](#) — *Add once deployed*
+* 💻 (Optional) [Live Demo](#) — *Taken Down*
 
 ---
 
